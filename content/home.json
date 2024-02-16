@@ -1,0 +1,19 @@
+{
+    "sectionOnlineProgram": {
+        "image": "section-onlineprograms-img.png",
+        "altText": "section online program",
+        "title": "Turn your dream into a degree",
+        "text": "Your goals to create a better life – for your family, your community, the world – are within your reach. As an online student, you’ll learn from the same faculty and follow the same curriculum as on-campus students, providing you with industry connections, research opportunities, internships and career services.",
+        "subText": "*Survey of ASU alumni who earned their degree online between 2018-2021",
+        "facts": [
+            {
+                "title": "300+",
+                "text": " programs for nearly every career path and passion"
+            },
+            {
+                "title": "94%",
+                "text": " of online alumni reported earning their degree led to their first career job, a new job or promotion"
+            }
+        ]
+    }
+}
