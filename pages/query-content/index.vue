@@ -3,7 +3,7 @@
     {{ pageData[0] }}
   </div>
   <div>
-    <img
+    <NuxtImg
       :src="`images/${pageData[0].sectionOnlineProgram.image}`"
       :alt="pageData[0].sectionOnlineProgram.altText"
       width="200px"

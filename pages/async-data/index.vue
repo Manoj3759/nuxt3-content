@@ -2,6 +2,10 @@
   <div>
     ------------
     {{ pageData.data }}
+    <div>
+      <h1>title----{{ pageData[0].sectionOnlineProgram.title }}</h1>
+      <p>text------{{ pageData[0].sectionOnlineProgram.text }}</p>
+    </div>
   </div>
 </template>
 
